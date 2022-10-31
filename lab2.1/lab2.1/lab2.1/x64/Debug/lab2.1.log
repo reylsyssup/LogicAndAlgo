@@ -1,0 +1,5 @@
+﻿  lab2.1.cpp
+C:\Users\Ника\Desktop\ПГУ\algorithmization\lab2.1\lab2.1\lab2.1\lab2.1.cpp(52,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ника\Desktop\ПГУ\algorithmization\lab2.1\lab2.1\lab2.1\lab2.1.cpp(58,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+lab2.1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  lab2.1.vcxproj -> C:\Users\Ника\Desktop\ПГУ\algorithmization\lab2.1\lab2.1\x64\Debug\lab2.1.exe
