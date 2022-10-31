@@ -1,0 +1,5 @@
+﻿  lab1.3.cpp
+C:\Users\Ника\Desktop\ПГУ\algorithmization\lab1.3\lab1.3\lab1.3\lab1.3.cpp(4,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\Ника\Desktop\ПГУ\algorithmization\lab1.3\lab1.3\lab1.3\lab1.3.cpp : message : см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+lab1.3.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  lab1.3.vcxproj -> C:\Users\Ника\Desktop\ПГУ\algorithmization\lab1.3\lab1.3\x64\Debug\lab1.3.exe

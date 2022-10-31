@@ -1,0 +1,6 @@
+﻿  lab1.4.cpp
+C:\Users\Ника\Desktop\ПГУ\algorithmization\lab1.4\lab1.4\lab1.4\lab1.4.cpp(3,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\Ника\Desktop\ПГУ\algorithmization\lab1.4\lab1.4\lab1.4\lab1.4.cpp : message : см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+C:\Users\Ника\Desktop\ПГУ\algorithmization\lab1.4\lab1.4\lab1.4\lab1.4.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+lab1.4.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  lab1.4.vcxproj -> C:\Users\Ника\Desktop\ПГУ\algorithmization\lab1.4\lab1.4\x64\Debug\lab1.4.exe
